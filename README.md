@@ -22,7 +22,7 @@
 
 ### 🧠 Artificial Intelligence & Computer Vision
 - Object Detection (YOLO), Object Tracking (DeepSort)
-- Face Detection, Face Recognition (ONNX InsightFace)
+- Face Detection & Face Recognition (InsightFace, ONNX)
 - Edge AI Deployment (OpenVINO)
 - Medical & Agriculture Computer Vision
 
@@ -42,11 +42,10 @@
 | **YOLO + DeepSort Tracking** | Python, CV | Multi-object tracking akurat untuk analitik lalu lintas |
 | **Face Recognition API** | FastAPI, ONNX, PostgreSQL | Autentikasi biometrik real-time dengan face matching |
 | **Rice Disease Recognition** | DL, AgriTech | Deteksi penyakit padi — dukung sektor pertanian cerdas |
-| **Fake News Detector** | NLP, ML | Cegah penyebaran berita palsu dalam platform informasi |
+| **Fake News Detector** | NLP, ML | Klasifikasi hoax untuk keamanan informasi |
 | **Acne Classification** | CNN | Analisis kulit untuk aplikasi dermatologi digital |
 
-> Tanyakan untuk demo Visual/Video 📩  
-> Private repository (NDA / Production)
+> Demo / video siap ditunjukkan on request 📩  
 
 ---
 
@@ -60,18 +59,42 @@
 
 ---
 
-## 📊 (Optional) GitHub Stats — Activate When Ready
+## 📊 GitHub Performance
 
-> Setelah deploy self-host di Vercel, cukup **uncomment** bagian ini dan ganti `YOUR_STATS_DOMAIN` dengan domain kamu sendiri
-
-```md
-<!--
 <div align="center">
-  <img src="https://YOUR_STATS_DOMAIN/api?username=RndraThr&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://YOUR_STATS_DOMAIN/api/top-langs/?username=RndraThr&layout=compact&theme=vue-dark&hide_border=true" height="165" />
+
+  <!-- Main stats (self-hosted) -->
+  <img src="https://github-profile-stats-six.vercel.app/api?username=RndraThr&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+
+  <!-- Top languages -->
+  <img src="https://github-profile-stats-six.vercel.app/api/top-langs/?username=RndraThr&layout=compact&theme=vue-dark&hide_border=true" height="165" />
+
 </div>
 
 <div align="center">
+
+  <!-- Contribution streak (external service, biasanya stabil) -->
   <img src="https://streak-stats.demolab.com?user=RndraThr&theme=vue-dark&hide_border=true" height="165" />
+
 </div>
--->
+
+---
+
+## 🎯 Career Focus
+
+- 🚗 Smart City: Intelligent Transportation Systems  
+- 🛰 Geospatial AI & Infrastructure Optimization  
+- 🏥 Medical Vision Systems  
+- 🌐 Enterprise-Ready AI Deployment (Edge + Cloud)  
+
+---
+
+## 📫 Contact
+
+📍 Indonesia  
+📩 **Email:** rendrabtuharea@gmail.com  
+🔗 **LinkedIn:** /in/rendra-baskoro-tuharea  
+
+---
+
+> ✨ *“AI that solves real problems — not just runs in notebooks.”* ✨
