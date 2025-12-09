@@ -20,65 +20,58 @@
 
 ## ⚡ Tech Focus
 
-### 🧠 AI & Machine Learning  
-- Computer Vision: Detection, Tracking, Face Recognition, OCR  
-- Deep Learning: PyTorch, TensorFlow  
-- Data Mining: FP-Growth, PSO, Predictive Modeling  
+### 🧠 Artificial Intelligence & Computer Vision
+- Object Detection (YOLO), Object Tracking (DeepSort)
+- Face Detection, Face Recognition (ONNX InsightFace)
+- Edge AI Deployment (OpenVINO)
+- Medical & Agriculture Computer Vision
 
-### 🛠 Backend & Cloud  
-- Laravel, Node.js (Express), FastAPI  
-- PostgreSQL, MySQL  
-- Docker, AWS, GCP  
-- CI/CD + Production Ready Deployment  
+### 🛠 Full-Stack & Cloud
+- Laravel, Node.js (Express), FastAPI
+- MySQL, PostgreSQL
+- Docker, AWS, GCP, CI/CD Ready
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Featured Projects
 
 | Project | Stack | Impact |
 |--------|------|--------|
-| **Aergas-APBN** *(Private)* | Laravel, MySQL, GIS | Sistem pendistribusian gas nasional (multi-tenant) — digunakan pada proyek nyata Jargas (APBN RI) |
-| **Realtime Vehicle Counter — Edge AI** | Python, OpenVINO, RTSP | Hitung kendaraan dari CCTV live — scalable untuk smart traffic monitoring |
+| **Aergas-APBN** *(Private)* | Laravel, MySQL, GIS | Sistem pendistribusian gas nasional — digunakan di proyek nyata APBN Jargas |
+| **Realtime Vehicle Counter — Edge AI** | Python, OpenVINO | Hitung kendaraan dari CCTV live untuk Smart Traffic Monitoring |
 | **YOLO + DeepSort Tracking** | Python, CV | Multi-object tracking akurat untuk analitik lalu lintas |
-| **Face Recognition API** | FastAPI, ONNX | Autentikasi biometrik: deteksi wajah → ekstraksi embedding → face-matching |
-| **Rice Disease Recognition** | DL, AgriTech | Bantu petani mendeteksi penyakit padi dari gambar |
-| **Fake News Detector** | NLP | Cegah penyebaran berita palsu dengan machine learning |
-| **Acne Classification** | CNN | Sistem analisis kulit untuk bantuan diagnosis jerawat |
+| **Face Recognition API** | FastAPI, ONNX, PostgreSQL | Autentikasi biometrik real-time dengan face matching |
+| **Rice Disease Recognition** | DL, AgriTech | Deteksi penyakit padi — dukung sektor pertanian cerdas |
+| **Fake News Detector** | NLP, ML | Cegah penyebaran berita palsu dalam platform informasi |
+| **Acne Classification** | CNN | Analisis kulit untuk aplikasi dermatologi digital |
 
-> Demo & Documentation available upon request  
-> Private repos karena NDA dan production usage
+> Tanyakan untuk demo Visual/Video 📩  
+> Private repository (NDA / Production)
 
 ---
 
-## ⭐ GitHub Stats & Activity (Stable Version)
+## 🧩 Additional Project Experience
 
+- YOLO-OCR for industrial text detection  
+- Cloud-based IoT Monitoring Dashboard  
+- Decision Support System (SPK SAW)  
+- QRIS Payment Integration (Xendit)  
+- Semantic Web Parfume Recommendation  
+
+---
+
+## 📊 (Optional) GitHub Stats — Activate When Ready
+
+> Setelah deploy self-host di Vercel, cukup **uncomment** bagian ini dan ganti `YOUR_STATS_DOMAIN` dengan domain kamu sendiri
+
+```md
+<!--
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RndraThr&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RndraThr&layout=compact&theme=vue-dark&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=RndraThr&theme=vue-dark&hide_border=true" height="165"/>
-
+  <img src="https://YOUR_STATS_DOMAIN/api?username=RndraThr&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://YOUR_STATS_DOMAIN/api/top-langs/?username=RndraThr&layout=compact&theme=vue-dark&hide_border=true" height="165" />
 </div>
 
----
-
-## 🎯 Career Focus
-
-- 🚗 Smart-City Intelligent Transportation Systems  
-- 🛰️ Geospatial AI for Infrastructure & Public Services  
-- 🏥 Medical AI & Computer Vision in Healthcare  
-- 🌐 Scalable AI Deployment (Edge + Cloud)  
-
----
-
-## 📫 Contact
-
-📩 Email: **rendrabtuharea@gmail.com**  
-🔗 LinkedIn: **/in/rendra-baskoro-tuharea**  
-🌍 Location: Indonesia  
-
----
-
-> ✨ “AI that solves real problems — not just runs in notebooks.” ✨
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RndraThr&theme=vue-dark&hide_border=true" height="165" />
+</div>
+-->
