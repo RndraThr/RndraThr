@@ -63,7 +63,7 @@
 
 <div align="center">
 
-  <!-- Main stats (self-hosted) -->
+  <!-- Main stats -->
   <img src="https://github-profile-stats-six.vercel.app/api?username=RndraThr&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
 
   <!-- Top languages -->
@@ -73,10 +73,11 @@
 
 <div align="center">
 
-  <!-- Contribution streak (external service, biasanya stabil) -->
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=RndraThr&theme=vue-dark&hide_border=true" height="165" />
 
 </div>
+
 
 ---
 
